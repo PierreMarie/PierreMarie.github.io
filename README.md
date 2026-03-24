@@ -55,6 +55,6 @@ Incluez autant que possible :
 
 ## Mentions légales
 
-© {{ site.time | date: "%Y" }} poneyQuiPue — Tous droits réservés.  
+© 2026 poneyQuiPue — Tous droits réservés.  
 
 ---
