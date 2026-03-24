@@ -48,9 +48,8 @@ Incluez autant que possible :
 
 ## Données & confidentialité
 
-- **Politique de confidentialité :** <https://pierremarie.github.io/privacy/>  
-- **Suppression de compte / données** (si applicable) : indiquez la procédure ou contactez‑nous à [support@tondomaine.com](mailto:support@tondomaine.com).
-
+- **Politique de confidentialité :** <https://pierremarie.github.io/privacy/>
+- 
 ---
 
 ## Mentions légales
