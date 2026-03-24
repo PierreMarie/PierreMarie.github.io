@@ -40,12 +40,7 @@ Incluez autant que possible :
 
 **Problème d’abonnement / facturation**  
 ➡️ Gérez ou annulez depuis Apple : <https://apps.apple.com/account/subscriptions>. Pour des achats récents, vous pouvez **signaler un problème** via Apple : <https://reportaproblem.apple.com/>.
----
 
-## Données & confidentialité
-
-- **Politique de confidentialité :** <https://pierremarie.github.io/privacy/>
-- 
 ---
 
 ## Mentions légales
