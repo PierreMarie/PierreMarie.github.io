@@ -1,7 +1,7 @@
 # Page d’assistance officielle - poneyQuiPue
 
 Besoin d’aide, d’un correctif ou d’une question sur **poneyQuiPue** ?  
-Nous répondons généralement **sous 24–48 h ouvrées**.
+Nous répondons généralement **sous 24-48 h ouvrées**.
 
  Nous contacter
 
