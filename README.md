@@ -1,4 +1,4 @@
-# Page d’assistance officielle — poneyQuiPue
+# Page d’assistance officielle - poneyQuiPue
 
 Besoin d’aide, d’un correctif ou d’une question sur **poneyQuiPue** ?  
 Nous répondons généralement **sous 24–48 h ouvrées**.
@@ -24,7 +24,7 @@ Nous répondons généralement **sous 24–48 h ouvrées**.
 
 Incluez autant que possible :
 
-- **Version de l’app** (ex. 1.0) — visible dans Réglages → poneyQuiPue.  
+- **Version de l’app** (ex. 1.0) - visible dans Réglages → poneyQuiPue.  
 - **Appareil & iOS** (ex. iPhone 14, iOS 20.x).  
 - **Étapes pour reproduire** (1, 2, 3).  
 - **Résultat attendu** vs **observé**.  
@@ -45,6 +45,6 @@ Incluez autant que possible :
 
 ## Mentions légales
 
-© 2026 poneyQuiPue — Tous droits réservés.  
+© 2026 poneyQuiPue - Tous droits réservés.  
 
 ---
